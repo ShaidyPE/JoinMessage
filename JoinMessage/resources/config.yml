@@ -1,0 +1,5 @@
+---
+messages:
+  Guest: Игрок {nick} присоединился к серверу!
+  Admin: + Admin {nick}
+...
